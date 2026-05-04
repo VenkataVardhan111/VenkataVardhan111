@@ -15,9 +15,8 @@
 
 <samp>- 📫 Reach me at venkatavardhan111@gmail.com</samp>
 
-<samp>- 💙</samp>
+<samp>- 💻still learning new coding skills </samp>
 
-<samp>-  💻</samp>
 
 <!-- Qoute -->
 <div style="margin-bottom: 60px;"></div>
